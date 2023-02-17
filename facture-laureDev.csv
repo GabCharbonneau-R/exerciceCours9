@@ -1,0 +1,7 @@
+﻿Main d'oeuvre;Nbre heures;Taux;
+Service de conception;15;100;1500
+Service de développement;22;100;2200
+Déploiement et entretien;5;100;500
+Entretien;10;80;800
+sous-total;;;5000
+Total TTC;;;5748,75
