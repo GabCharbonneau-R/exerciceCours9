@@ -1,0 +1,12 @@
+Main d'œuvre;Nb heures;Taux;
+Service de conception;20;100;2000
+Service de dev.;1;100;100
+Déploiement et entretient;10;100;1000
+;;;
+;;;
+Matériel;;;
+Hébergement 12mois;;;900
+;;;
+;;sous-total;4000
+;;taxes;600
+;;Total;4600
